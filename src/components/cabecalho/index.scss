@@ -1,0 +1,19 @@
+@import '../../color';
+
+
+.com-cabecalho {
+   
+    text-align: center;
+    background-color: $secundaria;
+    height: 90px;
+    
+    .info{
+        display: flex;
+        color: aliceblue;
+        font-size: 11px;
+        flex-direction: row;
+        align-items: center;
+        gap: 40px;
+        margin-left: 45px;
+    }
+}
