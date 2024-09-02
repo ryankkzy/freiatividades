@@ -1,4 +1,12 @@
+@import '../../color';
 
-.posicao {
-  text-align: center;
+body{
+  background-color: $primaria;
+}
+
+.ativ {
+  font-family: 'roboto';  
+  font-size: 36px;
+  padding: 80px;
+  margin-left: 160px;
 }
